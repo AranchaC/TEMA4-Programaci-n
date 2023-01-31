@@ -22,7 +22,7 @@ public class PruebaAlumno {
 		daw2.añadeAlumno(a3);
 		*/
 		
-		Grupo daw2 = new Grupo("daw2", 33);
+		Grupo daw2 = new Grupo("daw2", 3);
 		Alumno a;
 		while ((a = Alumno.deTeclado()) != null) {
 			daw2.añadeAlumno(a);
