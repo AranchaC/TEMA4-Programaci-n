@@ -1,5 +1,5 @@
 package alumno;
-
+//prueba
 import java.util.Objects;
 
 public class Alumno {
