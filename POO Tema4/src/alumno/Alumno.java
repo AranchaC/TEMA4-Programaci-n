@@ -8,7 +8,7 @@ public class Alumno {
 	private String apellido;
 	private int edad;
 	
-	public Alumno(){
+	public Alumno(){ 
 		this("sin nombre","sin apellido",0);
 	}
 	
